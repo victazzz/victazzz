@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**victazzz/victazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Przemek, Typescript/React Developer from Poland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I’m currently working at [Escola](https://escola.pl)
+
+###  How to reach me:
+[przemyslaw.wiktorskii@gmail.com](przemyslaw.wiktorskii@gmail.com)
+
+[https://www.linkedin.com/in/victazzz](https://www.linkedin.com/in/victazzz/)
+
+  
+
+
