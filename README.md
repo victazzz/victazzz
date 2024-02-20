@@ -12,6 +12,8 @@ I’m currently working at [Escola](https://escola.pl)
 
 [https://www.linkedin.com/in/victazzz](https://www.linkedin.com/in/victazzz/)
 
+[victaz.dev](https://victaz.dev/)
+
   
 
 
